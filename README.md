@@ -71,3 +71,8 @@
 
 * Enküçülteceğimiz Kaybı Tanımlamak : 
 
+![Screenshot_2020-04-08_23-59-53](https://user-images.githubusercontent.com/54184905/78833253-3c124480-79f5-11ea-80cd-6536fe26df91.png)
+
+
+* Gradyan İnişi Sürecini Oluşturmak : 
+
