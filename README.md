@@ -61,3 +61,8 @@
 
 * Stil kaybı : 
 
+![Screenshot_2020-04-08_23-48-52](https://user-images.githubusercontent.com/54184905/78832226-8d213900-79f3-11ea-8a72-89984965d21a.png)
+
+
+* Toplam Değişim Kaybı : 
+
