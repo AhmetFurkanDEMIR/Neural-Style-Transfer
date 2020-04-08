@@ -76,3 +76,7 @@
 
 * Gradyan İnişi Sürecini Oluşturmak : 
 
+![Screenshot_2020-04-09_00-02-27](https://user-images.githubusercontent.com/54184905/78833402-7da2ef80-79f5-11ea-9c8f-207b6ded469f.png)
+
+
+* Stil Aktarımı Döngüsü : 
