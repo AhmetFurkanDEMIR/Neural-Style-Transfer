@@ -44,5 +44,12 @@
 ![Screenshot_2020-04-08_23-39-37](https://user-images.githubusercontent.com/54184905/78831438-50087700-79f2-11ea-81b1-5d3cf0783c81.png)
 
 
-* Yardımcı Fonksiyonlar : 
+* Yardımcı Fonksiyonlar :
+
+![Screenshot_2020-04-08_23-41-52](https://user-images.githubusercontent.com/54184905/78831627-a07fd480-79f2-11ea-9645-d5fc55929883.png)
+
+
+* Öneğitimli VGG19 ağını yüklemek ve üç resme uygulama : 
+
+
 
