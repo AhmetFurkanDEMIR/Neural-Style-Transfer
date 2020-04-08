@@ -29,3 +29,15 @@
 
 * Stilini alacağınız referans resmin evrişimli sinir ağı tarafından çıkarılan tüm ölçeklerdeki görünüşümü yakalamaya çalışırsınız.
 * Stil kaybı referans resimle hedef resim arasında farklı katmanların aktivasyonlarının iç korelasyonlarını korumayı hedefler.
+
+
+# Keras 'ta Sinirsel Stil Aktarımı
+
+* Bu örneğimizde VGG19 öneğitimli evrişimli sinir ağını kullanarak Sinirsel Stil Aktarımını gerçekleştirdik. süreç şu şekilde olacaktır :  
+* Referans resim, hedef resim ve üretilen resmin VGG19 aktivasyonlarını aynı anda hesaplayan bir ağ hesaplayalım.
+* Enküçülterek stil aktarımını sağlayacağınız daha önce tanımladığınız kaybı tanımlamak için bu üç resim üzerinde hesaplanan katman aktivasyonlarını kullanalım.
+*Kayıp fonksiyonunu enküçültmek için gradyan inişini kullanın
+
+* Değişkenlerin tanımlanması : 
+
+
