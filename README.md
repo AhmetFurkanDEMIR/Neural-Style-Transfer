@@ -82,3 +82,5 @@
 * Stil Aktarımı Döngüsü : 
 
 ![Screenshot_2020-04-09_00-04-10](https://user-images.githubusercontent.com/54184905/78833520-b0e57e80-79f5-11ea-8160-90f3c2fd7faa.png)
+
+# Sinirsel Stil Aktarımını kullanark Sonuçlara Bakalım
