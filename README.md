@@ -84,3 +84,9 @@
 ![Screenshot_2020-04-09_00-04-10](https://user-images.githubusercontent.com/54184905/78833520-b0e57e80-79f5-11ea-8160-90f3c2fd7faa.png)
 
 # Sinirsel Stil Aktarımını kullanark Sonuçlara Bakalım
+
+![örnek3](https://user-images.githubusercontent.com/54184905/78833708-fe61eb80-79f5-11ea-90e4-18e425df74cd.png)
+
+![örnek1](https://user-images.githubusercontent.com/54184905/78833719-01f57280-79f6-11ea-8143-d7f7d6568c8a.png)
+
+![örnek2](https://user-images.githubusercontent.com/54184905/78833724-03bf3600-79f6-11ea-9511-84a59482175c.png)
