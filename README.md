@@ -95,3 +95,6 @@
 # Özet
 
 * Stil Aktarımı, hedef resmin içeriğini kaybetmeden referans resmin stilinin aktarılmasıdır
+* İçerik, evrişimli sinir ağının son katmanlarında yakalanabilir.
+* Stil, evrişimli sinir ağının farklı katmanlarının aktivasyonlarının iç korelasyonuyla yakalanabilir.
+* Sonuçta derin öğrenme,öneğitimli bir evrişimli sinir ağında kayıp fonksiyonu tanımlayarak ve kaybı eniyileyerek stil aktarımı yapılmasını sağlar.
