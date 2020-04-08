@@ -51,5 +51,9 @@
 
 * Öneğitimli VGG19 ağını yüklemek ve üç resme uygulama : 
 
+![Screenshot_2020-04-08_23-44-07](https://user-images.githubusercontent.com/54184905/78831807-ed63ab00-79f2-11ea-94d3-7a5946fe08ee.png)
+
+
+* İçerik kaybı (hedef resimle üretilen resmin birbirine benzemesini sağlayacak içerik kaybı) : 
 
 
