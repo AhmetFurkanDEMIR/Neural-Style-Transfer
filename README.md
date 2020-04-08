@@ -56,4 +56,8 @@
 
 * İçerik kaybı (hedef resimle üretilen resmin birbirine benzemesini sağlayacak içerik kaybı) : 
 
+![Screenshot_2020-04-08_23-46-16](https://user-images.githubusercontent.com/54184905/78832070-54815f80-79f3-11ea-8175-82508aefd8a8.png)
+
+
+* Stil kaybı : 
 
