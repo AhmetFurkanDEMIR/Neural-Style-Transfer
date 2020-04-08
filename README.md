@@ -38,6 +38,11 @@
 * Enküçülterek stil aktarımını sağlayacağınız daha önce tanımladığınız kaybı tanımlamak için bu üç resim üzerinde hesaplanan katman aktivasyonlarını kullanalım.
 *Kayıp fonksiyonunu enküçültmek için gradyan inişini kullanın
 
-* Değişkenlerin tanımlanması : 
 
+* Değişkenlerin Tanımlanması : 
+
+![Screenshot_2020-04-08_23-39-37](https://user-images.githubusercontent.com/54184905/78831438-50087700-79f2-11ea-81b1-5d3cf0783c81.png)
+
+
+* Yardımcı Fonksiyonlar : 
 
