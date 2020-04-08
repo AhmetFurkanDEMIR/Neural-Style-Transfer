@@ -66,3 +66,4 @@
 
 * Toplam Değişim Kaybı : 
 
+![Screenshot_2020-04-08_23-50-30](https://user-images.githubusercontent.com/54184905/78832390-d5405b80-79f3-11ea-9356-88ffe166c4ec.png)
