@@ -98,3 +98,8 @@
 * İçerik, evrişimli sinir ağının son katmanlarında yakalanabilir.
 * Stil, evrişimli sinir ağının farklı katmanlarının aktivasyonlarının iç korelasyonuyla yakalanabilir.
 * Sonuçta derin öğrenme,öneğitimli bir evrişimli sinir ağında kayıp fonksiyonu tanımlayarak ve kaybı eniyileyerek stil aktarımı yapılmasını sağlar.
+
+
+# Kaynak
+* https://keras.io/examples/neural_style_transfer/
+* https://www.amazon.com/Deep-Learning-Python-Francois-Chollet/dp/1617294438 (Sayfa 306-315)
